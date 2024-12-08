@@ -11,8 +11,8 @@ Ensure [Maven](https://maven.apache.org/guides/getting-started/maven-in-five-min
 #### Steps to Execute
 1. Clone the repository:
    ```bash  
-   git clone Lab4  
-   cd Lab4  
+   git clone https://github.com/AntonIO-OI/Java-Lab4
+   cd Java-Lab4
    ```  
 
 2. Build the project (this will also run unit tests):
