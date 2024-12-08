@@ -36,7 +36,7 @@ Ensure [Maven](https://maven.apache.org/guides/getting-started/maven-in-five-min
 1. Open a terminal in the project root directory.
 2. Run the following command to generate the Javadoc:
    ```bash
-   javadoc -d docs -sourcepath src/main/java -subpackages vegetable
+   javadoc -d docs -sourcepath src/main/java
    ```
 3. After the process completes, navigate to the `/docs` folder to view the generated documentation.
 
